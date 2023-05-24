@@ -1,0 +1,44 @@
+.footer-wrapper {
+  min-width: 500px;
+	background-color: #3b455a;
+	padding-left: 30px;
+}
+.Useful-link {
+	border: 1px solid #3b455a;
+}
+.Icon {
+	width: 400px;
+	padding-top: 10px;
+}
+.Icon > a {
+	margin-right: 40px;
+	color: white;
+}
+.logo {
+	padding-top: 40px;
+}
+
+.Useful-Link > a {
+	display: flex;
+	flex-direction: column;
+	color: rgba(213, 213, 213, 0.6);
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+.Useful-Link > a:hover {
+	text-decoration: underline;
+	color: white;
+	transition: all 0.4s ease;
+}
+.titlee {
+	padding-top: 35px;
+	color: white;
+}
+.Contact-Info > p {
+	display: flex;
+	flex-direction: column;
+	color: rgba(213, 213, 213, 0.6);
+}
+.Contact-Info {
+	padding-bottom: 50px;
+}

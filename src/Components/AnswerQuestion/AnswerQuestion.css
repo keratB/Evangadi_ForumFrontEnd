@@ -1,0 +1,31 @@
+.answer_form {
+	min-height: 490px;
+	border-radius: 15px;
+	background: #ffffff;
+	box-shadow: 5px 5px 10px #e8e8e8, -5px -5px 10px #ffffff;
+}
+.answer_input {
+	height: 200px;
+	padding: 15px 25px;
+	border-radius: 15px;
+	font-size: 1.15384615rem;
+	border: silver 1px solid;
+}
+.answer_input:focus {
+	outline: none;
+}
+.answer_post_btn {
+	max-width: 200px;
+	height: 41px;
+	background-color: #516cf0;
+	color: white;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	font-size: 1rem;
+}
+.answer_post_btn:hover {
+	background-color: #fe8402;
+}
+.answer_post_btn:active{
+	background-color: #516cf0;
+}

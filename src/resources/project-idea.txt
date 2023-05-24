@@ -1,0 +1,62 @@
+Discussion forum - MVP 
+**********************  
+
+  ** Recreate the authentication feature 
+
+  ** - We have to have a way to tag questions for specific section
+    A - We need to have a way to ask a question 
+    B - We need to have a way to answer 
+    C - We need a way to display the questions and answers 
+
+  A-Sol: To ask question, we need a form with 
+    Question field, 
+    Body/Explanation field
+      - We need a nice editor to include code too  
+      - With a WYSIWYG editor 
+        - With image adding feature 
+        - With a way to post in Amharic 
+    Tag 
+      - Which section? 
+        - Pre populated sections 
+      - General tag 
+
+  B-Sol: To answer, we need a form 
+    Answer field 
+      - We need a nice editor to include code too  
+      - With a WYSIWYG editor 
+
+  C-sol: Each question needs to have its own page 
+
+  ** - Share general news and related links
+    - Needs to be tagged by section 
+    
+    Sol: We need a form 
+      Link field 
+      Tag 
+
+  We need a dedicated page for the discussions and sharing (/discussions)
+
+    - We need a button which says ask a question at the top 
+
+    - A text box at the top to share useful links 
+
+    - The latests post or question will be showed at the top 
+
+    - On the right side of the page, there  will be a menu to filter out questions by section 
+      - When clicked on a specific section, questions specific to that section will show 
+
+
+
+ideas
+
+-send email to when your questions are answered (notification)
+-create some chat to connect with other people who are online
+-create a like or dislike and approve when 10 people likes the answer show the thick mark
+-
+
+questions
+1. how to implement search in this app?
+2. how to peek a keywords from the question being asked?
+
+database looks
+https://docs.google.com/spreadsheets/d/1efq8HX1If4nVSCFuF3BRYWFA2aVvl3to0eZ3bKtEyys/edit#gid=0
